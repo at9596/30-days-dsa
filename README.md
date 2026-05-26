@@ -270,7 +270,7 @@ f(n) = f(n - 1) + f(n - 2)
 # Progress Tracker ✅
 
 * [x] ~~Day 1~~
-* [x] ~~ Day 2 ~~
+* [x] ~~Day 2~~
 * [ ] Day 3
 * [ ] Day 4
 * [ ] Day 5
