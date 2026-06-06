@@ -25,7 +25,7 @@ The goal of this challenge is to improve problem-solving skills, understand comm
 * [x] ~~Day 17~~
 * [x] ~~Day 18~~
 * [x] ~~Day 19~~
-* [ ] Day 20
+* [x] ~~Day 20~~
 * [ ] Day 21
 * [ ] Day 22
 * [ ] Day 23
