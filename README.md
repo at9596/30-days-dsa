@@ -35,7 +35,7 @@ The goal of this challenge is to improve problem-solving skills, understand comm
 * [x] ~~Day 27~~
 * [X] ~~Day 28~~
 * [x] ~~Day 29~~
-* [ ] Day 30
+* [x] ~~Day 30~~
 
 
 ---
